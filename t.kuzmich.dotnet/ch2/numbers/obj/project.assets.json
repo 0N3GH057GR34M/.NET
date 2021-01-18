@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nikro\\.nuget\\packages\\": {}
+    "C:\\Users\\t.kuzmich\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikro\\OneDrive\\Documents\\Code\\.NET\\t.kuzmich.dotnet\\ch2\\numbers\\numbers.csproj",
+      "projectUniqueName": "C:\\Users\\t.kuzmich\\Documents\\Code\\.NET\\t.kuzmich.dotnet\\ch2\\numbers\\numbers.csproj",
       "projectName": "numbers",
-      "projectPath": "C:\\Users\\nikro\\OneDrive\\Documents\\Code\\.NET\\t.kuzmich.dotnet\\ch2\\numbers\\numbers.csproj",
-      "packagesPath": "C:\\Users\\nikro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikro\\OneDrive\\Documents\\Code\\.NET\\t.kuzmich.dotnet\\ch2\\numbers\\obj\\",
+      "projectPath": "C:\\Users\\t.kuzmich\\Documents\\Code\\.NET\\t.kuzmich.dotnet\\ch2\\numbers\\numbers.csproj",
+      "packagesPath": "C:\\Users\\t.kuzmich\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\t.kuzmich\\Documents\\Code\\.NET\\t.kuzmich.dotnet\\ch2\\numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nikro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\t.kuzmich\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

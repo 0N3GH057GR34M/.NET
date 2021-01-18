@@ -1,0 +1,16 @@
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.csprojAssemblyReference.cache
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.AssemblyInfoInputs.cache
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.AssemblyInfo.cs
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.csproj.CoreCompileInputs.cache
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\nulling.exe
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\nulling.deps.json
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\nulling.runtimeconfig.json
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\nulling.runtimeconfig.dev.json
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\nulling.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\ref\nulling.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\bin\Debug\net5.0\nulling.pdb
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\ref\nulling.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.pdb
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch2\nulling\obj\Debug\net5.0\nulling.genruntimeconfig.cache
