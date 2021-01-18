@@ -1,0 +1,16 @@
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\numbers.exe
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\numbers.deps.json
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\numbers.runtimeconfig.json
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\numbers.runtimeconfig.dev.json
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\numbers.dll
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\ref\numbers.dll
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\bin\Debug\net5.0\numbers.pdb
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.csprojAssemblyReference.cache
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.AssemblyInfoInputs.cache
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.AssemblyInfo.cs
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.dll
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\ref\numbers.dll
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.pdb
+C:\Users\nikro\OneDrive\Documents\Code\.NET\t.kuzmich.dotnet\ch2\numbers\obj\Debug\net5.0\numbers.genruntimeconfig.cache
