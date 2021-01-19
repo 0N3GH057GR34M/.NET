@@ -1,5 +1,6 @@
 ﻿using System;
 using static System.Console;
+using System.IO;
 
 namespace condition
 {
@@ -50,24 +51,20 @@ namespace condition
       Stream s = File.Open(
        Path.Combine(path, "file.txt"), FileMode.OpenOrCreate);
       string message = string.Empty;
-      switch (s)
+
+      message = s switch
       {
-        case FileStream writeableFile when s.CanWrite:
-          message = "The stream is a file that I can write to.";
-          break;
-        case FileStream readOnlyFile:
-          message = "The stream is a read-only file.";
-          break;
-        case MemoryStream ms:
-          message = "The stream is a memory address.";
-          break;
-        default: // always evaluated last despite its current position
-          message = "The stream is some other type.";
-          break;
-        case null:
-          message = "The stream is null.";
-          break;
-      }
+        FileStream writeableFile when s.CanWrite
+        => "The stream is a file that I can write to.",
+        FileStream readOnlyFile
+        => "The stream is a read-only file.",
+        MemoryStream ms
+        => "The stream is a memory address.",
+        null
+        => "The stream is null.",
+        _
+        => "The stream is some other type."
+      };
       WriteLine(message);
     }
   }
