@@ -1,0 +1,16 @@
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\iterations.exe
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\iterations.deps.json
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\iterations.runtimeconfig.json
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\iterations.runtimeconfig.dev.json
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\iterations.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\ref\iterations.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\bin\Debug\net5.0\iterations.pdb
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.csprojAssemblyReference.cache
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.AssemblyInfoInputs.cache
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.AssemblyInfo.cs
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.csproj.CoreCompileInputs.cache
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\ref\iterations.dll
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.pdb
+C:\Users\t.kuzmich\Documents\Code\.NET\t.kuzmich.dotnet\ch3\iterations\obj\Debug\net5.0\iterations.genruntimeconfig.cache
