@@ -7,6 +7,7 @@ namespace casting
   {
     static void Main(string[] args)
     {
+      // 
       double a1 = 9.8;
       int b1 = (int)a1;
       int b2 = Convert.ToInt32(a1);
